@@ -1,0 +1,12 @@
+# DL-Stock (Sage Inventory)
+
+> Plataforma SaaS multi-tenant de gestión de inventario, stock multi-almacén, ventas, facturación (con NCF para República Dominicana), cotizaciones, gastos, cuentas por pagar y reportes para pequeñas y medianas empresas.
+
+DL-Stock permite a negocios administrar productos, servicios, almacenes, clientes, proveedores y empleados desde una sola plataforma web. Incluye facturación con soporte para NCF de la DGII, reportes 606 y 607, control de gastos recurrentes, órdenes de compra y un panel de superadmin multi-tenant.
+
+## Pages
+
+- [Inicio](/): Acceso a la plataforma DL-Stock.
+- [Iniciar sesión o registrarse](/auth): Crea una cuenta para tu empresa o inicia sesión.
+- [Términos y condiciones](/terminos): Términos de uso del servicio.
+- [Política de privacidad](/privacidad): Cómo tratamos los datos personales.
